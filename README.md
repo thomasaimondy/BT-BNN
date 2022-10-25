@@ -45,3 +45,19 @@ python3 humanoidstandup-net46.py --file 46-optimized.bnn
 cd humanoidstandup/
 python3 humanoidstandup-net46.py --optimized --file 46.bnn 
 ```
+or  
+```Bash
+cd humanoid/
+python3 humanoids-net46.py --optimized --file 46.bnn 
+```
+or  
+```Bash
+cd halfcheetah/
+python3 halfcheetah-net46.py --optimized --file 46.bnn 
+```
+or  
+```Bash
+cd mountaincar/
+python3 mountaincar-net46.py --optimized --file 46.bnn 
+```
+
